@@ -10,7 +10,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 <b>Execution:</b>
-    git clone https://github.com/Ronje0993/Wave2Mp3.git
-    ./compile.sh
-    ./LameProject.bin
-    
+    `git clone https://github.com/Ronje0993/Wave2Mp3.git`
+    `./compile.sh`
+    `./LameProject.bin`    
